@@ -1,3 +1,3 @@
-### 📚 Changes
+## 📚 Changes
 
-## Added some UNet parts and training code.
+### Added some UNet parts and training code.
